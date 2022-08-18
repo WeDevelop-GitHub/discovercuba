@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<h1 id="hello-jekyll">Hello, Jekyll!</h1>
+<h1 id="hello-jekyll">Discover CUBA!</h1>
